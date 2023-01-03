@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+}
+#container{
+    padding:12px;
+    margin:auto;
+    width:80%;
+}
+header{
+    background-image:url(../images/Screenshot_20221026-120343~2.jpg);
+    background-repeat:no-repeat;
+    background-size:60rem;
+}
